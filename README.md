@@ -5,8 +5,8 @@ Amazing Prime Video, a platform for streaming movies and tv shows would like to 
 To inspire the team, have some fun, and connect with the local coding community, Amazing Prime decided to sponsor a hackathon. The hackathon participants will have to predict the popular pictures from a clean data set of movie data.
 
 ## Resources
-Data Sources: movies_metadata.csv (Kaggle Metadata), ratings.csv (MovieLens rating data), wikipedia-movies.json(Wikipedia web scrape data)
-Software: Python 3.7.7, Jupyter Notebook, PostgreSQL 11, pgAdmin 4
+Data Sources: movies_metadata.csv (Kaggle Metadata), ratings.csv (MovieLens rating data), wikipedia-movies.json(Wikipedia web scrape data) \
+Software: Python 3.7.7, Jupyter Notebook, PostgreSQL 11, pgAdmin 4 \
 Dependencies: json, pandas, numpy, re, sqlalchemy, psycopg2, time
 
 ## Summary
