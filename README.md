@@ -15,6 +15,7 @@ We had to create an automated pipeline that takes in new data, performs the appr
 It took a total of 52 minutes to export the movie and ratings tables into the PostgreSQL database.
 ![Import Time](resources/import_time.png)
 
+<br>
 There was a total of 6,052 rows in the movies table.
 
 ![Movies Query](resources/movies_query.png)
